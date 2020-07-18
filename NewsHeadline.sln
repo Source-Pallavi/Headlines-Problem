@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsHeadline", "NewsHeadline\NewsHeadline.csproj", "{43824A55-D16E-4CC6-865E-20FE79C28F3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{4E5B8CAF-C3E1-4B82-B4CD-B464EC9B360C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43824A55-D16E-4CC6-865E-20FE79C28F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43824A55-D16E-4CC6-865E-20FE79C28F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43824A55-D16E-4CC6-865E-20FE79C28F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43824A55-D16E-4CC6-865E-20FE79C28F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D564D04-130D-4BE6-A4E4-E2B33DBE1048}
+	EndGlobalSection
+EndGlobal
